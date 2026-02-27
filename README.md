@@ -21,7 +21,6 @@ The objective is to improve accuracy of semiconductor loss estimation by compari
 - MOSFET Datasheet Energy Parameters
 - Hardware RL Load Setup
 
-
 ## Methodology
 1. Modelled three-phase VSI in MATLAB/Simulink  
 2. Implemented SVPWM switching strategy  
@@ -30,12 +29,10 @@ The objective is to improve accuracy of semiconductor loss estimation by compari
 5. Measured voltage and current waveforms  
 6. Compared analytical and experimental results  
 
-
 ## Results
 - Analytical vs Experimental loss comparison  
 - Switching energy variation with current  
 - Validation under static RL load  
-
 
 ## Key Learning
 - Non-linear behaviour of switching losses with current  
